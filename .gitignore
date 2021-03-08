@@ -1,0 +1,8 @@
+# npm modules
+node_modules
+
+# enviroment
+.env
+
+#build
+dist
